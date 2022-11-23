@@ -10,18 +10,26 @@ TDF has great affordable starter fits. We will help you get spacerich & we have 
 
 We have limits for the time you can spend in fleet while upgrading, but don’t treat these as targets. Upgrade as soon as you reasonably can, and you will stay well within the limits. Please also be aware, getting your elite badge on one ship should be your first priority, if your a new character we do not recommend trying lots of different ships as the upgrade limit is very streamlined. So consider carefully which ship you wish to fly.
 
-TDF works with a tier system. Pilots can be categorized as starter, basic, elite and elite gold. Your current status is determined by fit and lowest skill tier.
+TDF works with a tier system. Pilots can be categorized as starter, basic, elite and elite gold. Your current status is determined by your fit and lowest skill tier. If any of your skills are red on the skills page you will be classed as a starter regardless of fit or time in fleet!
 
-**You must reach the tier by the time limit set out in the table below:**
+**Each tier/ship in the table below may be flown up to the listed amount of total fleet hours:**
 
-|        Tier        | Time Limit |
+|         Tier          | Time Limit |
+| :-------------------: | :--------: |
+|       Megathron       | up to 20h  |
+|        Starter        | up to 60h  |
+|         Basic         | up to 100h |
+|    Advanced (Logi)    | up to 150h |
+| Advanced (Vindicator) | up to 225h |
+|  Advanced (Marauder)  | up to 250h |
+
+**You must be elite (this includes fit, skills and implant set) by the following time limits set below:**
+
+|     Ship type      | Time Limit |
 | :----------------: | :--------: |
-|    Megathron\*     |    20h     |
-|       Basic        |    60h     |
-|      Advanced      |    100h    |
 |    Elite (Logi)    |    150h    |
 | Elite (Vindicator) |    225h    |
-|  Elite (Bastion)   |    250h    |
+|  Elite (Marauder)  |    250h    |
 
 ## Upgrade guidance for DPS
 
@@ -29,11 +37,11 @@ TDF works with a tier system. Pilots can be categorized as starter, basic, elite
 
 1. **Get a [starter fit](/fits?Tier=Starter)**, you will need level 2 armor compensation skills to be able to x-up, and you need to be able to online all the modules from the fit. We recommend the Vindi or Nightmare starters.
 
-(If you are Alpha status and cannot use the MJD in the cargo this is fine, we understand pilots will need time to Omega their accounts) If you're low on ISK, you can start by getting the **Megathron**. If you do, it's important that you focus on upgrading to another ship as soon as possible.
+(If you are Alpha status and cannot use the MJD in the cargo this is fine, we understand pilots will need time to Omega their accounts) If you're low on ISK, you can start by getting the **Megathron**. If you do, it's important that you focus on upgrading to another one of the starter ship hulls as soon as possible.
 
 2. Omega your account **ASAP**. Start with one month, its plenty!
-3. If you are still in a Megathron get yourself a Vindi or Nightmare starter fit. **\*(You must be out of a megathron by 20 hours of fleet time)**.
-4. Past 30 hours in fleet its important to show progression in your upgrading, either via ship, skills, or fit.
+3. If you are still in a Megathron get yourself a Vindi or Nightmare starter fit. **\*(You must upgrade out of a megathron by 20 hours of fleet time)**.
+4. Past 30 hours in fleet its important to show progression in your upgrading, either via ship, skills, or fit so read on to the basic section below.
 
 ### Basic
 
@@ -47,7 +55,7 @@ TDF works with a tier system. Pilots can be categorized as starter, basic, elite
 - Rigs (Thermal, EM, Kinetic, Explosive, Trimark, etc.)
 
 3. **Train the red Starter coloured skills**, these skills are keeping you in starter queue so prioritise them over everything else!
-4. **Train and get T2 guns** and the remainder of the basic fit modules starting with the Core X-Type MWD (this will help greatly with your cap stability) then Magnetic Field Stabilizers & Heat Sinks etc.
+4. **Train and get T2 guns** and the remainder of the basic fit modules starting with the Core/Gist X-Type MWD (this will help greatly with your cap stability) then Magnetic Field Stabilizers & Heat Sinks etc.
 
 Once you have the basic fit ready to go, continue **training and injecting basic skills** which will help your capacitor stability and the ability to keep up with the fleet. At this point you are no longer starter and will be placed in a normal squad, congratulations!
 
@@ -55,7 +63,7 @@ Once you have the basic fit ready to go, continue **training and injecting basic
 
 1. **Upgrade to [advanced fits](/fits?Tier=Advanced)**. Your skills will already be sufficient to fly the fits, so buy those new modules!
 
-2. **Get your implant set**. See TDF-IMPLANT1 mailing list in game or see [Fittings page](/fits). You will need cybernetics 5 trained to be able to plugin the hard wires. The recommended purchase order for the set is:
+2. **Get your implant set**. See TDF-IMPLANT1 mailing list in game, or use [Fittings page](/fits). You will need cybernetics 5 trained to be able to plugin the hard wires. The recommended purchase order for the set is:
 
 - Slot 10 (6% damage Alpha) make sure you get the implant that corresponds to your gun type!
 - Slot 9 (6% damage ROF)
@@ -90,4 +98,4 @@ _Dont forget to ask an FC to scan you for your elite badge so that you are eligi
 
 ### Branch out
 
-Once you're done upgrading, consider branching out to another ship. Maybe try logistics and work toward the Logistics specialist badge. If you are in a timezone with low pilot numbers consider training up another DPS alt and earn twice the payouts! Once you have your elite badge pilots are allowed to bring a doctrine fitted alt to fleet with an Advanced fit or better. **Alts are also expected to be upgraded and are held to the same standards as your main.**
+Once you're done upgrading to elite, consider branching out to another ship. Maybe try logistics and work toward the Logistics specialist badge. If you are in a timezone with low pilot numbers consider training up another DPS alt and earn twice the payouts! Once you have your elite badge pilots are allowed to bring a doctrine fitted alt to fleet with an Advanced fit or better. **Alts are also expected to be upgraded and are held to the same standards as your main.**
